@@ -1,10 +1,10 @@
 Rellenar el error con los siguientes parámetros:
 
-# Endpoint
+## Endpoint
 
 POST /profile
 
-# Request Body
+## Request Body
 
 ```javascript
 {
@@ -12,7 +12,7 @@ POST /profile
 }
 ```
 
-# Response Body
+## Response Body
 
 ```javascript
 {
@@ -21,6 +21,6 @@ POST /profile
 }
 ```
 
-# Description
+## Description
 
 La documentación dice que solo es necessario el `firstName` pero no funciona.
